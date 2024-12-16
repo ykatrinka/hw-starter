@@ -1,0 +1,3 @@
+ru.clevertec.monitorstarter.configuration.PerformanceMonitorAutoConfiguration
+ru.clevertec.monitorstarter.aop.PerformanceMonitorAspect
+ru.clevertec.monitorstarter.configuration.PerformanceMonitorProperties
